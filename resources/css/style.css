@@ -1,9 +1,21 @@
 body {
-  font-family: Verdana, sans-serif;
-  text-align: center;
-  background-color: black;
-  color: white;
-  line-height: 40;
+        font-family: Verdana, sans-serif;
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding: 20px;	
+        font-weight: normal	
 }
-
-
+h1 {
+        font-size: 50px;
+        font-weight: normal;
+}
+        
+a {
+    color: Aquamarine;
+}
+footer {
+    text-align: right;
+    color: grey;
+    font-size: large;	    
+}
